@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "react/forbid-prop-types": false,
+    "react/jsx-filename-extension": false,
+    "no-class-assign": 0,
+    "no-param-reassign": ["error", { "props": false }]
+  }
+}
