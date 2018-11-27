@@ -15,4 +15,4 @@ npm run dev / For local development
 - Styleguide - Airbnb
 
 #Purpose
-Demo for Server Side Rendering using express in a REact app with redux and react router.
+Demo for Server Side Rendering using express in a React app with redux and react router.
